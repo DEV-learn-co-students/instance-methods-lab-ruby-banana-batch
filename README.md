@@ -1,5 +1,7 @@
 # Instance Methods Lab Ruby
 
+<!--TESTING-->
+
 ## Objectives
 
 1. Define a class.
@@ -22,6 +24,7 @@ Open `lib/dog.rb` and add a class definition for a `Dog` class.
 Add an instance method `#bark` to your `Dog` class in `lib/dog.rb` that will puts `"Woof!"`
 
 #### 3. Define `#sit` in `Dog`
+
 
 Add an instance method `#sit` to your `Dog` class in `lib/dog.rb` that will puts `"The Dog is sitting"`.
 
